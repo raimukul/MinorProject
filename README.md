@@ -1,68 +1,40 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About project
+Welcome to
+College CafeQueria
+An initiative, launched with a motive to eliminate all the doubts regarding college life and academia.
+F aster replies to your doubts
 
-In the project directory, you can run:
+O cean of college info
 
-### `npm start`
+R eliable answers to your questions
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+U niversal college discussion platform
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+M entors to ask your questions
 
-### `npm test`
+### Fetures
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Real-Time Preview Edits
+Members can preview their comments in real time right in the page, and they can edit their existing comments right in the page as well.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Powerful Search
+Autocomplete helps users find what they are looking for quickly. Search results include images and videos added to posts. Relevance is based on keywords, word order and post quality.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Groups
+Suited for larger communities, this feature lets members form smaller groups where they can hold discussions and schedule events. Groups can be public or private and can be managed by moderators or by the members themselves.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Social Logins
+College CafeQueria supports the most popular social logins, reducing the time-to-post and increasing the likelihood of engaging a visitor.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Rich Content
+Members can format posts with html, markdown, or bbcode. Images can be dragged and dropped and videos are automatically embedded. Tweets, Vines and Pins are automatically recognized when pasted into a comment.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Private Community
+College CafeQueria can be set to be completely private. Only registered members will be able to log in and participate in the community.

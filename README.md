@@ -1,18 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About project
-Welcome to
-College CafeQueria
+## Welcome to College CafeQueria
 An initiative, launched with a motive to eliminate all the doubts regarding college life and academia.
-F aster replies to your doubts
 
-O cean of college info
+## Faster replies to your doubts
 
-R eliable answers to your questions
+## Ocean of college info
 
-U niversal college discussion platform
+## Reliable answers to your questions
 
-M entors to ask your questions
+## Universal college discussion platform
+
+## Mentors to ask your questions
 
 ### Fetures
 

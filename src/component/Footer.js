@@ -8,7 +8,7 @@ const FooterPagePro = () => {
         <MDBRow className="pt-5 mb-3 text-center d-flex justify-content-center font-body" id="bgfooter">
           <MDBCol md="2" className="b-3">
             <h6 className="title font-weight-bold">
-              <a rel="noopener noreferrer" href="http://www.mukulrai.in" target="_blank">Home</a>
+              <a rel="noopener noreferrer" href="/" target="_blank">Home</a>
             </h6>
           </MDBCol>
           <MDBCol md="2" className="b-3">
@@ -39,7 +39,7 @@ const FooterPagePro = () => {
         <MDBRow className="pb-3">
           <MDBCol md="12">
             <div className="mb-5 flex-center">
-              
+ 
               <a className="tw-ic" rel="noopener noreferrer" href="#!" target="_blank">
                 <i className="fab fa-twitter fa-lg white-text mr-md-4"> </i>
               </a>
